@@ -10,4 +10,4 @@ git init -> inicia o repositório
 git add . -> adiciona todos os arquivos criados
 git commit -m "comentário" -> adiciona um comentário para ser 
 inserido no repositório
-it push -> adiciona um arquivo criado
+git push -> adiciona um arquivo criado
